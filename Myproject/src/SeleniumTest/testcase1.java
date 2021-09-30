@@ -7,6 +7,7 @@ public class testcase1 {
 		System.out.println("testcase modified");
 		System.out.println("hello");
 		System.out.println("commit again");
+		System.out.println("new test");
 
 	}
 
